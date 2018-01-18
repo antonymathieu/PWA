@@ -1,3 +1,69 @@
-p{
-    font-size: 250px;
+body{
+    background-color: darkgrey;
 }
+
+
+#img{
+    margin-top: 42px;
+    margin-left: 20px;
+}
+
+h1{
+  
+    display: inline-block;
+    font-size: 60px;
+    margin-right: 100px;
+
+ 
+  
+}
+
+header{
+    background-color: dimgray; 
+    display: flex;
+}
+
+
+.titrehead{
+    margin-left: 350px;
+    
+   
+}
+
+h3{
+    border: 1px solid black;
+    width: 300px;
+}
+
+.titre1{
+    font-size: 40px;
+text-align: center;
+    background-color: white;
+    height: 100px;
+padding-top: 30px;
+}
+
+.bloc1{
+    width: 360px;
+    
+    text-align: left;
+    
+}
+
+.titre2{
+    width: 650px;
+}
+
+.NouveauH{
+    font-size: 60px;
+    
+}
+
+
+
+
+.publi{
+    font-size: 40px;
+   
+}
+
